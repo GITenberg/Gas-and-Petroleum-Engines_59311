@@ -1,16 +1,21 @@
 _repo: Gas-and-Petroleum-Engines_59311
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Elliott, A. G.
     gutenberg_agent_id: '50388'
     url: http://www.gutenberg.org/2009/agents/50388
+covers:
+- cover_type: archival
+  image_path: 59311-h/images/cover.jpg
 creator:
   author:
     agent_name: Gaffigny, Henry  de
     gutenberg_agent_id: '50387'
     url: http://www.gutenberg.org/2009/agents/50387
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59311#Gas-and-Petroleum-Engines
 gutenberg_issued: '2019-04-19'
 gutenberg_type: Text
 identifiers:
